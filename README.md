@@ -1,4 +1,4 @@
-# Crypto-marketplace-phishing
+# Crypto-phishing-phishing
 <p align="center">
   <img src="https://github.com/gitlenance/Crypto-marketplace-phishing/blob/main/web.png" alt="animated" />
 </p>
