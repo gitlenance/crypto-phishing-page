@@ -18,7 +18,7 @@
 ### DRAINS ALL THE FUNDS AND SEND A WEBHOOK MESSAGE TO YOUR TELEGRAM/DISCORD + SAVED ON ADMIN PANEL.
 
 <p align="center">
-  <img src="https://github.com/gitlenance/Crypto-marketplace-phishing/blob/main/wallets.png" alt="animated" />
+  <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/discord.png" alt="animated" />
 </p>
 
  
