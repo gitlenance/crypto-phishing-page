@@ -27,6 +27,12 @@
   <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/page.png" alt="animated" />
 </p>
 
+###🦊🚫 Bypass Metamask "phishing detection"
+
+<p align="center">
+  <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/bypass.png" alt="animated" />
+</p>
+
 ## OBS: VPS/Domain not provided.
  
 ## ⚠️ DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES. 
