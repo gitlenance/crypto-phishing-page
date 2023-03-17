@@ -30,6 +30,6 @@
  
 ## ⚠️ DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES. 
 
-## 👋 Contact Me on Discord: lenance#0042
+## 👋 Contact me on Discord: lenance#0042
 
 ## Usually my clients profit ~20/50k using the service.
