@@ -33,4 +33,4 @@
 
 ## 👋 Contact me on Discord: lenance#0042
 
-## Usually my clients profit ~20/50k using the service.
+## Usually my clients profit ~20/50k using this type of service.
