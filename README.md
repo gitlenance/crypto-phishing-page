@@ -27,7 +27,7 @@
   <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/page.png" alt="animated" />
 </p>
 
-## OBS: VPS/Domain not provided
+## OBS: VPS/Domain not provided.
  
 ## ⚠️ DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES. 
 
