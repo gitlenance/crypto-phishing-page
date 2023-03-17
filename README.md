@@ -27,7 +27,7 @@
   <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/page.png" alt="animated" />
 </p>
 
-###🦊🚫 Bypass Metamask "phishing detection"
+🦊🚫 Bypass Metamask "phishing detection"
 
 <p align="center">
   <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/bypass.png" alt="animated" />
