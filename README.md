@@ -11,7 +11,7 @@
 ## 🕵️ No Logs;
 
 
-## Crypto sweeper/drainer + Admin panel.
+## Crypto Sweeper/Drainer + Admin Panel.
 
 ## Easy setup and installation (only $950 - we can fork any NFT Project/Exchange/Website)
 
