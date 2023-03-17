@@ -13,9 +13,10 @@
 ## 🕵️ No Logs;
 
 
-## Crypto sweeper/drainer + admin panel.Easy setup and installation.($950 - We can fork any NFT project/exchange/website)
+## Crypto sweeper/drainer + Admin panel.
+## Easy setup and installation.(only $950 - we can fork any NFT project/exchange/website)
 
-### DRAINS ALL THE FUNDS AND SEND A WEBHOOK MESSAGE TO YOUR TELEGRAM/DISCORD + SAVED ON ADMIN PANEL.
+### Example of discord notification ⬇️
 
 <p align="center">
   <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/discord.png" alt="animated" />
