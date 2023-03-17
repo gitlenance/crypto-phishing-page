@@ -1,6 +1,6 @@
 # Crypto-phishing-page
 <p align="center">
-  <img src="https://github.com/gitlenance/Crypto-marketplace-phishing/blob/main/web.png" alt="animated" />
+  <img src="https://github.com/gitlenance/crypto-phishing-page/blob/main/web.png" alt="animated" />
 </p>
 
 ## ⚙️ PC VIEW OF ADMIN PANEL
